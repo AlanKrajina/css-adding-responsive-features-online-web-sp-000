@@ -43,8 +43,9 @@ col-3 p {
     font-size: 0.9em;
 }
 
-#social {
-  position: absolute;
-  width: 82px 4px 0 0;
+col-3 p {
+  -moz-column-count: 1;
+  -webkit-column-count: 1;
+  column-count: 1;
 }
 }
