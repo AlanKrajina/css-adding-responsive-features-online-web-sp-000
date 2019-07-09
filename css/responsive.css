@@ -8,3 +8,14 @@
   width: 82px 4px 0 0;
 }
 }
+
+@media (max-width: 1108px) {
+.wrapper {
+    width: 90%;
+}
+
+#social {
+  position: absolute;
+  width: 82px 4px 0 0;
+}
+}
